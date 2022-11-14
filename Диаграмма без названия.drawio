@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T13:45:38.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="2_aXu2oJBCS0L3JCPkP5" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T13:49:09.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="W7-hrMP9rYVJ7QWUjejh" version="20.5.3" type="github">
   <diagram id="2lUz5Oyn9MHpiCWvCSlj" name="Страница 1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,18 +17,6 @@
         </mxCell>
         <mxCell id="AkYKL_0-t9u1GaAAUCaC-2" value="ввод N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AkYKL_0-t9u1GaAAUCaC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="435" as="sourcePoint" />
-            <mxPoint x="770" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AkYKL_0-t9u1GaAAUCaC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="435" as="sourcePoint" />
-            <mxPoint x="730" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="AkYKL_0-t9u1GaAAUCaC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkYKL_0-t9u1GaAAUCaC-7" target="AkYKL_0-t9u1GaAAUCaC-15">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +73,30 @@
         </mxCell>
         <mxCell id="AkYKL_0-t9u1GaAAUCaC-34" value="Задача 6. Составить блок-схему нахождения факториала N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkYKL_0-t9u1GaAAUCaC-35" target="AkYKL_0-t9u1GaAAUCaC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-35" value="начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkYKL_0-t9u1GaAAUCaC-36" target="AkYKL_0-t9u1GaAAUCaC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-36" value="cin&amp;gt;&amp;gt;a&amp;gt;&amp;gt;b&amp;gt;&amp;gt;c&amp;gt;&amp;gt;d" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkYKL_0-t9u1GaAAUCaC-38" target="AkYKL_0-t9u1GaAAUCaC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-38" value="cout&amp;lt;&amp;lt;(a+b+c+d)/4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-40" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkYKL_0-t9u1GaAAUCaC-42" value="Задача 6. Составить блок-схему нахождения факториала N." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1190" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
